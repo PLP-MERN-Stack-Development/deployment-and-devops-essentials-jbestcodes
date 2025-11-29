@@ -58,6 +58,21 @@ The assignment includes templates for setting up GitHub Actions workflows:
 
 ## Submission
 
+
+## Live Application Links
+
+- **Frontend (Vercel):** [https://your-vercel-app-url.vercel.app](https://your-vercel-app-url.vercel.app)
+- **Backend API (Render):** [https://your-render-api-url.onrender.com](https://your-render-api-url.onrender.com)
+
+## CI/CD Pipeline Screenshots
+
+Add screenshots here showing your GitHub Actions workflows running for both frontend and backend deployments.
+
+## Monitoring Setup
+
+Describe your health check endpoints, uptime monitoring, and any error/performance tracking tools (e.g., Sentry, UptimeRobot).
+
+---
 Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
 
 1. Complete all deployment tasks
